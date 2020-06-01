@@ -6,4 +6,4 @@ email: 'yann.tromeur@iooikos.com'
 linkedinurl: 'https://www.linkedin.com/in/yanntromeur/'
 ---
 
-Using the Most of his time to help others achieve their goals
+Using the most of his time to help others achieve their goals
