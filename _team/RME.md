@@ -1,9 +1,7 @@
 ---
 title: 'Roxann Mendez'
-image: '/images/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Accountant and Director Assistant'
+image: '/images/team/RME.jpg'
+jobtitle: 'Accounting'
 email: 'roxann.mendez@iooikos.com'
 linkedinurl: ''
 ---
-
-TBD
