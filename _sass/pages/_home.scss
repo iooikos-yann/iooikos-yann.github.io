@@ -1,8 +1,5 @@
 .page-home {
-  background-image: url('../images/safe.svg');
-  background-repeat: no-repeat;
-  background-size: 90%;
-  background-position: 49px -40px;
+
 
   @include media-breakpoint-up(sm) {
     background-size: 90%;
@@ -114,6 +111,20 @@
       @include media-breakpoint-up(lg) {
         margin-top: -20%;
         width: 70%;
+      }
+    }
+  }
+}
+
+.page-home {
+  .wrapper {
+    .intro {
+      display: block !important;
+      justify-content: unset !important;
+      .image-holder {
+        background-image: url('../images/safeold.svg');
+        background-repeat: no-repeat;
+        background-position: 49px 10px;
       }
     }
   }
