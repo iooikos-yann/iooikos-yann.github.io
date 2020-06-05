@@ -10,11 +10,11 @@
   }
   @include media-breakpoint-up(md) {
     background-size: 85%;
-    background-position: 199px -80px;
+    background-position: -7px 80px;
   }
   @include media-breakpoint-up(lg) {
     background-size: 100%;
-    background-position: 90px -100px;
+    background-position: -7px -100px;
     height: 400px;
   }
 }
