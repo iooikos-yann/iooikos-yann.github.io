@@ -127,5 +127,10 @@
         background-position: 49px 10px;
       }
     }
+    .call-box-top {
+      &[class^='call'] {
+        line-height: 1.8;
+      }
+    }
   }
 }
