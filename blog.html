@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 ---
 {%- if site.posts.size > 0 -%}
-<ul class="posts">
+<ul class="container posts post-list">
 	{%- for post in site.posts -%}
 	<li>
 		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

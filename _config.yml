@@ -13,6 +13,9 @@ collections:
   testimonials:
     output: true
     permalink: /testimonials/:path/
+  posts:
+    output: true
+    permalink: /blog/:title/
 
 defaults:
   - scope:
@@ -25,10 +28,32 @@ defaults:
     values:
       image: true
 
+
+
 sass:
   style: compact # possible values: nested expanded compact compressed
 
 google_analytics_id: UA-108426994-3
 
-# plugins:
+plugins:
+  - jekyll-seo-tag
 #   - jekyll-environment-variables
+
+
+# config for blog
+show_excerpts: true 
+texture:
+  title: Yann Tromeur - Blog
+  tagline: iooikos
+  date_format: "%b %-d, %Y"
+  style: red
+  showNav: true
+  showPicker: false
+  # analytics_id: '386e49c2bc1b6cacf93d73439ae1de30b53e5fdc'
+
+  # generate social links in footer
+  social_links:
+    twitter: iooikos
+    github:  iooikos-yann
+    linkedIn: in/yann.tromeur
+    rss: rss
