@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="{{site.baseurl}}/images/iooi-icon.ico">
   <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
+  {% if jekyll.environment == 'production' %}
+  {% include advertisements.html %}
+  {% endif %}
 </head>
 <body class='page {{page.bodyClass}}'>
   {% include main-menu-mobile.html %}
