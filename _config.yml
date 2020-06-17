@@ -50,6 +50,7 @@ texture:
   showNav: true
   showPicker: false
   # analytics_id: '386e49c2bc1b6cacf93d73439ae1de30b53e5fdc'
+  google_analytics_id: UA-108426994-3
 
   # generate social links in footer
   social_links:
