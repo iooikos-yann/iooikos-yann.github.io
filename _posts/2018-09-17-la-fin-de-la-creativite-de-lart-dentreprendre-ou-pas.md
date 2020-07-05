@@ -1,9 +1,11 @@
-LA FIN DE LA PROPRIÉTÉ INTELLECTUELLE (OU L'INVERSE)
-====================================================
+---
+layout: post
+title:  "LA FIN DE LA PROPRIÉTÉ INTELLECTUELLE (OU L'INVERSE)"
+date: 2018-09-17 14:00:00
+categories: General
+---
 
-Posted on [September 17, 2018](https://iooikos.co/blog-post/la-fin-de-la-creativite-de-lart-dentreprendre-ou-pas-2/) by [Yann Tromeur](https://iooikos.co/author/gmailyatr/)
-
-[![](https://i0.wp.com/iooikos.co/wp-content/uploads/2018/08/3.png?fit=538%2C359&ssl=1)](https://iooikos.co/blog-post/la-fin-de-la-creativite-de-lart-dentreprendre-ou-pas-2/)
+[![](/IMAGES/2_cover.jpg)]()
 
 Nous ne soulignons pas assez la limite de la durée de vie de nos créations et de l'impact que cela a sur nos actions ou notre travail (c'est un art peut-être pour vous) voire notre vie.
 
@@ -14,8 +16,6 @@ Les idées, les films, les peintures, les photos sont maintenant sur des support
 Ce qui est valable pour les Arts, l'est aussi pour les industries, les sociétés, bref l'entrepreneuriat.
 
 La courte histoire de l'humanité montre à quel point les innovations techniques ont permis à la création, aux arts de connaitre un essor global.
-
-![](https://static.wixstatic.com/media/fc3094f1b62a47c8bd571751e41435e5.jpg/v1/fill/w_484,h_323,al_c,q_80,usm_0.66_1.00_0.01/fc3094f1b62a47c8bd571751e41435e5.webp)
 
 PRENONS UN RACCOURCI (dans le temps)
 
