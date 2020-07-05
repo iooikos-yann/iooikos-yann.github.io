@@ -5,7 +5,9 @@ date: 2018-09-17 14:00:00
 categories: General
 ---
 
-[![](https://iooikos.com/images/blog/2_cover.jpg)]()
+<p align="center">
+<img src="https://iooikos.com/images/blog/2_cover.jpg">
+</p>
 
 Nous ne soulignons pas assez la limite de la durée de vie de nos créations et de l'impact que cela a sur nos actions ou notre travail (c'est un art peut-être pour vous) voire notre vie.
 
@@ -29,7 +31,9 @@ Les peintres des grottes de Lascaux, eux, ont créés une fresque unique. La Joc
 
 La grotte de Lascaux a été copiée pour être préservée. La Joconde peut être vue sur Google. Dans les deux cas se sont sans doute la façon la plus sereine de profiter de ces œuvres. Les voir physiquement ou virtuellement a-t-il finalement une réelle importance?
 
-![](https://iooikos.com/images/blog/2_image2.png)
+<p align="center">
+<img src="https://iooikos.com/images/blog/2_image2.png">
+</p>
 
 L'art n'est plus rareté. L'était-il avant ?
 
@@ -43,7 +47,9 @@ C'est dans notre Nature, nous commettons des erreurs. L'une des plus grandes ét
 
 Il faut s'enrichir, apprendre et s'améliorer dans cette vie. Toujours itérer en permanence et ne pas prendre les choses personnellement : comme un programme informatique, pas de sentiment.
 
-![](https://iooikos.com/images/blog/2_image3.jpg)
+<p align="center">
+<img src=https://iooikos.com/images/blog/2_image3.jpg>
+</p>
 
 Les pannes se produisent, les erreurs sont commises, la contrefaçon est acceptée, la citation n'est pas nécessaire. Rien n'est permanent, tout n'est que création. Mais ce ne doit pas être pris pour argent comptant ou personnellement : d'autres vivent les mêmes évènements, d'autres créent et disparaissent, d'autres copient.
 
@@ -65,7 +71,9 @@ Quand j'y pense, en quarante ans et plus de vie : le suicide du Rock (Nirvana) 
 
 Toute disparition est normale. Nous vivons dans un cycle. La vie n'est qu'éphémère, peut-être pas à l'infinie mais toujours prête au come-back. La vie physique est finie. La Vie Numérique elle n'a que la limite de son support, qui évolue et s'adapte à toutes les conditions.
 
-![](https://iooikos.com/images/blog/2_image4.jpg)
+<p align="center">
+<img src=https://iooikos.com/images/blog/2_image4.jpg>
+</p>
 
 Le système tourne seul avec ou sans nous. La "machine" n'est pas contrôlée par des instances supérieures, ceux qui en ont compris le fonctionnement en donne seulement l'impression.
 

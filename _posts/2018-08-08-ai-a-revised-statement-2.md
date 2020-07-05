@@ -1,7 +1,10 @@
-AI -- A REVISED STATEMENT
-========================
+---
+layout: post
+title:  "AI -- a revised statement"
+date: 2018-08-08 09:00:00
+categories: General
+---
 
-Posted on [August 8, 2018](https://iooikos.co/blog-post/ai-a-revised-statement-2/) by [Yann Tromeur](https://iooikos.co/author/gmailyatr/)
 
 A couple of months ago, I wrote a series of articles titled "[Artificial Intelligence -- The Good, The Bad and the Ugly](http://www.iooikos.com/single-post/2018/05/07/Artificial-Intelligence---The-Good-The-Bad-and-the-Ugly---Intro)". I am taking the opportunity to do a "redux" version of it. Clarifying , correcting and adding a few subjects.
 
@@ -23,7 +26,10 @@ AI training / programming remains at an early technological stage, based on main
 
 This is unknown yet, to a certain extent, as many existing applications and studies provide us hints to what AI could become and how it will affect us more than we think so far. Will the science and knowledge of AI create such an environment of progress?
 
-![](https://static.wixstatic.com/media/6b985f_fed7a9fe702b4b7a92d47d5f7cdfc185~mv2.png/v1/fill/w_550,h_309,al_c,q_80,usm_0.66_1.00_0.01/6b985f_fed7a9fe702b4b7a92d47d5f7cdfc185~mv2.webp)
+<p align="center">
+<img src="https://iooikos.com/images/blog/4_image1.jpg">
+</p>
+
 
 In the eighteenth Century in France, the GAFA of the time (Voltaire, Diderot, Rousseau) were bringing light against obscurantism through literature, philosophy and science. Those brought a new society model and helped democracy and free speech to emerge.
 
@@ -31,7 +37,8 @@ Those times were also times of world discovery and slavery. Not too good right? 
 
 The road is going to be bumpy for "our new friend" and us.
 
-*I have a bad feeling about this...*
+
+### **I have a bad feeling about this...**
 
 AI will be part of all our activities. Its usage seems limitless and we wonder how it is and how it will influence our lives.
 
@@ -43,7 +50,8 @@ Better shape up our career plans fast, or office meetings will look like offices
 
 The World Bank estimates "57% of jobs in OECD countries could be automated over the next two decades". So far, in USA alone, in the past five months 89K workers in general merchandise store lost their jobs. Because "self-operating and chatty vending machines" ([link](https://www.city-journal.org/html/mother-all-disruptions-15251.html))
 
-*Creation is safe, you might say, nothing will replace this marvelous and creative human mind...*
+
+### **Creation is safe, you might say, nothing will replace this marvelous and creative human mind...**
 
 WRONG
 
@@ -66,13 +74,16 @@ In "Five myths about artificial intelligence" (), Bill LaPlante and Katharyn Whi
 
 This is the most troublesome statement: the unknown of what is going to happen to us. Our nations, communities and industries are not prepared yet. We have always embraced technology making it more and more part of our lives for the greater good.
 
-![](https://static.wixstatic.com/media/6b985f_26aacd34a1264f3397d4f0c8bd8f1bc1~mv2.jpg/v1/fill/w_550,h_330,al_c,q_80,usm_0.66_1.00_0.01/6b985f_26aacd34a1264f3397d4f0c8bd8f1bc1~mv2.webp)
+<p align="center">
+<img src="https://iooikos.com/images/blog/4_image2.jpg">
+</p>
 
 In a hyper-connected world where we use machines for our professional and family daily tasks, human nature has to progress. The bad thing is it always looks like we never planned its consequences and blame the machines for issues.
 
 Tell me: Who created them? Who uses them?
 
-*I have worst feelings about this...*
+
+### **I have worst feelings about this...**
 
 Do you see where I want to lead you? The weapon / military industry has been a leader on new technologies for decades (centuries?), our appetite for destruction  and war industrialization has created a colossal business sectors : 1.7 trillions USD in global expenditure in 2016 (<https://www.statista.com/topics/1696/defense-and-arms/>).
 
@@ -104,7 +115,8 @@ Would that even matter at some point in the future?
 
 Behind all those examples of techno-deviances it is our own nature we should question. We are the creators. We are responsible.
 
-*Always look on the bright side of life*
+
+### **Always look on the bright side of life**
 
 AI powers depend on us. Will be the teachers or do we want to be the pupils?
 
@@ -112,7 +124,9 @@ How it will expand, what it will become uniquely depends on humans. At first, it
 
 We need to "inventory actions humanism justifies...good or bad, mentions Gilles Dowek in Liberation's "Voyage au coeur de l'AI" adding "there is no more competition between Man and Machine than between the trumpeter and its instrument...".
 
-![](https://static.wixstatic.com/media/d161f2c4774d9289d06c95c23ca11ceb.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01/d161f2c4774d9289d06c95c23ca11ceb.webp)
+<p align="center">
+<img src="https://iooikos.com/images/blog/4_image3.jpg">
+</p>
 
 We need to evade from our fiction tales of AI dominating the World and start educating ourselves.
 

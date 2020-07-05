@@ -1,9 +1,13 @@
-COMMENT MANGER UN ÉLÉPHANT ? -- UNE APPROCHE ÉPICURIENNE DE LA GESTION DE PROJET -- TROISIÈME PARTIE
-==================================================================================================
+---
+layout: post
+title:  "Comment manger un éléphant? -- Une approche épicurienne de la gestion de projet -- Troisième Partie"
+date: 2018-08-09 14:00:00
+categories: General
+---
 
-Posted on [August 9, 2018](https://iooikos.co/blog-post/comment-manger-un-elephant-une-approche-epicurienne-de-la-gestion-de-projet-troisieme-partie/) by [Yann Tromeur](https://iooikos.co/author/gmailyatr/)
-
-[![](https://i0.wp.com/iooikos.co/wp-content/uploads/2018/08/1.png?fit=772%2C515&ssl=1)](https://iooikos.co/blog-post/comment-manger-un-elephant-une-approche-epicurienne-de-la-gestion-de-projet-troisieme-partie/)
+<p align="center">
+<img src="https://iooikos.com/images/blog/3_cover.jpg">
+</p>
 
 Fini ? Un petit chocolat pour la route ?
 
@@ -15,13 +19,17 @@ Manager de l'année !
 
 Oui de l'année. Seulement... des éléphants il y en a d'autres, toujours plus gras toujours plus appétissants. Malgré tout, instinctivement nous repartons à la tâche, chercher un autre éléphant, aiguisant nos couteaux, préparant la table.
 
-![](https://static.wixstatic.com/media/024a822931c9ee9f9472b4a3382c6949.jpg/v1/fill/w_550,h_367,al_c,q_80,usm_0.66_1.00_0.01/024a822931c9ee9f9472b4a3382c6949.webp)
+<p align="center">
+<img src="https://iooikos.com/images/blog/3_image1.jpg">
+</p>
 
 Je n'ai pas envie de citer trop longuement les cas de Sisyphe ou Don Quichotte, trop déprimant. Il ne faut pas se perdre dans des tâches répétitives ou trop peu différentes. Comme dit précédemment, vos clients et vos aides vont se retrouver soient frustrés (toujours la même chose) soit aller voir ailleurs : la concurrence à tuer un meilleur éléphant et il parait que sa recette est meilleure !
 
 Sisyphe poussait des rochers seul et Don Quichotte n'était accompagné que de Sancho Panza. Le premier aurait pu s'arrêter ou chercher une aide (déléguer), le second tristement ancré dans sa folie approuvée par son « aide » : deux très mauvais exemples dans notre cas.
 
-![](https://static.wixstatic.com/media/807426ed55974adc840728765e34247e.jpeg/v1/fill/w_550,h_367,al_c,q_80,usm_0.66_1.00_0.01/807426ed55974adc840728765e34247e.webp)
+<p align="center">
+<img src="https://iooikos.com/images/blog/3_image2.jpg">
+</p>
 
 Pour revenir au titre, selon Epicure le bonheur est atteint quand nous nous débarrassons des choses déplaisantes. Mais toujours selon Epicure, le bonheur est un engagement sur du long terme, un « travail » permanent. Petit à petit... Voyez-vous où je veux en venir ?
 
