@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LA FIN DE LA PROPRIÉTÉ INTELLECTUELLE (OU L'INVERSE)"
+title:  "La Fin De La Propriété Intellectuelle (ou son inverse)"
 date: 2018-09-17 14:00:00
 categories: General
 ---
@@ -11,19 +11,19 @@ Nous ne soulignons pas assez la limite de la durée de vie de nos créations et
 
 Spécialement dans un contexte numérisé, virtuel jusqu'à l'os qui rend même obsolète la notion de propriété intellectuelle ou de création unique.
 
-Les idées, les films, les peintures, les photos sont maintenant sur des supports numériques, copiables à l'infini et exploitables comme source « d'inspiration » par d'autres ; tout ceci étant accélérer avec un outil de diffusion mondial en temps réel. Tout créateur ou diffuseur est menacé s'il n'accepte pas cette réalité.
+Les idées, les films, les peintures, les photos sont désormais numériques / numérisés, duplicables à l'infini et exploitables comme source « d'inspiration » par d'autres ; tout ceci étant accéléré grâce à un outil de diffusion mondial en temps réel. Tout créateur ou diffuseur est menacé s'il n'accepte pas cette réalité. Merci Napster !
 
-Ce qui est valable pour les Arts, l'est aussi pour les industries, les sociétés, bref l'entrepreneuriat.
+Ce qui est valable pour les Arts l'est aussi pour les industries, les sociétés, bref l'entrepreneuriat. Il n'y a pas d'échappatoire : tous concernés !
 
-La courte histoire de l'humanité montre à quel point les innovations techniques ont permis à la création, aux arts de connaitre un essor global.
+La courte histoire de notre civilisation montre à quel point les innovations techniques ont permis à la création, aux arts de connaitre un essor global.
 
-PRENONS UN RACCOURCI (dans le temps)
+### **PRENONS UN RACCOURCI (dans le temps)**
 
 La transmission orale a été remplacée par l'écriture manuscrite, elle-même annihilée  par les presses de Guttenberg auxquelles ont succédées les machines à écrire. Les ordinateurs personnels ont suivi et furent remplacés par des systèmes connectés et mobiles aux puissances de création sans égal : à portée de nos doigts, culture, photographie, films, une caméra, une audience avec qui partager.
 
-Nous sommes arrivés au règne des youtubers, instagramers, de la twittersphere... Tous créateurs ! Tous Artistes ! Tous sponsorisés ! Tous reconnus ! Tous adorés / détestés!
+Nous sommes arrivés au règne des youtube, instagram, twitter... Tous créateurs ! Tous Artistes ! Tous sponsorisés ! Tous reconnus ! Tous adorés / détestés!
 
-EXTRAORDINAIRE.
+### **EXTRAORDINAIRE .**
 
 Les peintres des grottes de Lascaux, eux, ont créés une fresque unique. La Joconde de Vinci est unique... Mais de nos jours, l'art est une copie à l'infinie portée et disponible pour le plus grand nombre.
 
@@ -35,7 +35,7 @@ L'art n'est plus rareté. L'était-il avant ?
 
 Celui qui se croit omnipotent, créateur unique et génial, se trompe. Ray Dalio l'évoque bien dans [Principles ](https://www.principles.com/): notre rapport à la nature, l'acceptation de nos origines et de notre « fonction réelle » ont été perdus avec notre évolution. Nous devons revenir à des choses plus simples.
 
-THE WORLD GOES ROUND AND ROUND
+### **THE WORLD GOES ROUND AND ROUND**
 
 Notre « Machine » n'est que répétition, et peut se transformer assez facilement un cercle vertueux si nous y prêtons attention : revenir aux bases encore et encore. Affiner nos comportements et nos méthodes.
 
@@ -47,7 +47,7 @@ Il faut s'enrichir, apprendre et s'améliorer dans cette vie. Toujours itérer e
 
 Les pannes se produisent, les erreurs sont commises, la contrefaçon est acceptée, la citation n'est pas nécessaire. Rien n'est permanent, tout n'est que création. Mais ce ne doit pas être pris pour argent comptant ou personnellement : d'autres vivent les mêmes évènements, d'autres créent et disparaissent, d'autres copient.
 
-DEUS EX MACHINA, PARDON?
+### **DEUS EX MACHINA, PARDON?**
 
 Certains s'en sortent mieux que d'autres : c'est là sans doute que se niche le succès.
 
