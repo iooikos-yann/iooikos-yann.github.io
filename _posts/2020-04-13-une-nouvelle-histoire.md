@@ -8,6 +8,8 @@ L'effort pour maintenir les opérations pendant la pandémie COVID-19 place le C
 
 Les entreprises sont désormais confrontées à un scénario catastrophe devenu réalité qui montre la valeur de pouvoir évoluer à tout moment avec le cloud: pour s'adapter au travail à distance ou pour exécuter plus de charges de travail sur le cloud public si les centres de données font face à des réductions de personnel. 
 
+![image of Cloud](https://www.iooikos.com/images/blog/18_image2.jpg)
+
 L’automatisation des tâches informatiques et plus tard de certains travaux administratifs permettra l’entrée dans une digitalisation totale des métiers liés ou dépendants de l’informatique : aucun corps de métier n’y échappera. 
 
 Le mouvement que nous avons fait en tant qu'industrie vers plus de services basés sur le Cloud en mettant l'accent sur l'évolutivité, la fiabilité, la distribution entre les zones et les régions. 
