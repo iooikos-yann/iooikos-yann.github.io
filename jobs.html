@@ -1,24 +1,53 @@
 ---
+title: Jobs
 layout: default
 ---
-{%- if site.jobs.size > 0 -%}
-<ul class="container jobs job-list">
-	{%- for job in site.jobs -%}
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<div class="job-meta">
-			<a class="job-link" href="{{ job.url | relative_url }}">
-				<h2 class="job-title">{{ job.title | escape }}</h2>
-			</a>
-			<div class="job-date"><i class="icon-calendar"></i>{{ job.date | date: date_format }}</div>
-		</div>
-		<div class="job">
-			{%- if site.show_excerpts -%}
-			{{ job.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
-	{%- endfor -%}
-</ul>
-{%- endif -%}
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-md-6">
+        <h1>Join iooikos - Luxembourg</h1>
+        <p>
+          	text1
+        </p>
+        <p>
+        	text2
+    	</p>
+        <p>
+        	Text3
+        </p>
+      </div>
+      <div class="col-12 col-md-6 page-jobs-list">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for jobs in site.jobs %}
+    <div class="col-12 col-md-6 mb-1">
+      <div class="jobs jobs-summary">
+        {% if jobs.image %}
+        <div class="jobs-image">
+          <img
+            alt="{{ jobs.title }} logo"
+            class="img-fluid mb-2"
+            src="{{site.baseurl}}{{ jobs.image }}"
+          />
+        </div>
+        {% endif %}
+        <div class="jobs-meta">
+          <h2 class="jobs-name">{{ jobs.title }}</h2>
+          <p class="jobs-description">{{ jobs.jobtitle }}</p>
+          {% if jobs.linkedinurl %}
+          <a target="_blank" href="{{ jobs.linkedinurl }}">LinkedIn</a> 
+          {% endif %}
+        </div>
+        <div class="jobs-content">{{ jobs.content }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
