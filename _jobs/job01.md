@@ -1,7 +1,12 @@
 ---
+layout: post
 title: 'Title Job'
 image: '/images/jobs/job.jpg'
-jobtitle: 'JOB0'
+date: 2023-04-22 14:00:00
 email: 'jobs@iooikos.com'
 ---
-linkedinurl: 'https://www.linkedin.com/company/iooikos'
+text
+
+text
+
+contact: ![image](smtp://jobs@iooikos.com)
