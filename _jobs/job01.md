@@ -36,6 +36,6 @@ We understand the importance of balancing professional and personal life, and we
 * Excellent communication skills, both orally and in writing, in French and English.
 * Ability to work independently and as a team, with a client-oriented and problem-solving approach.
 
-If you are ready to take on this exciting challenge and join our international team, do not hesitate to send us your resume and cover letter by [email](mailto:jobs@iooikos.com).
+If you are ready to take on this exciting challenge and join our international team, do not hesitate to send us your resume and cover letter by email at [jobs@iooikos.com](mailto:jobs@iooikos.com).
 
-We look forward to meeting you and discussing your potential within our company!
+We look forward to meeting you and discussing your future in our company!
