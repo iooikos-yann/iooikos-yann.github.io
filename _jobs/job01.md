@@ -8,4 +8,4 @@ text
 
 text
 
-contact: ![image](smtp://jobs@iooikos.com)
+contact: ![link](smtp://jobs@iooikos.com)
