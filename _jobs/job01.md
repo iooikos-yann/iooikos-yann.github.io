@@ -6,6 +6,10 @@ date: 2023-04-12 14:00:00
 categories: open jobs
 ---
 
+===============
+IT Operations Engineer / Technician Hybrid Workplace - Microsoft 365
+===============
+
 Join our rapidly growing consulting firm and contribute to our international success as a motivated IT Operations Engineer/Technician specializing in Microsoft SaaS solutions and security.
 
 We are seeking a professional passionate about Microsoft SaaS technologies and security to strengthen our IT Operations team.
