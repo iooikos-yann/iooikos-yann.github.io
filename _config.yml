@@ -16,6 +16,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+  jobs:
+    output: true
+    permalink: /jobs/:title/
 
 defaults:
   - scope:

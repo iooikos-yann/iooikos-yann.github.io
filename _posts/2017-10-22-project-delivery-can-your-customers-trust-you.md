@@ -6,7 +6,7 @@ Posted on [October 22, 2017](https://iooikos.co/blog-post/project-delivery-can-
 
 [![](https://i2.wp.com/iooikos.co/wp-content/uploads/2018/08/21.png?fit=482%2C242&ssl=1)](https://iooikos.co/blog-post/project-delivery-can-your-customers-trust-you/)
 
-Today I was on both of the fence.
+Today I was on both sides of the fence.
 
 I recently ordered a new high speed internet for home and still expect my provider to deliver the service... "it can take up to 5 days", did not mentioned it when I signed the order... As a customer, I am deeply frustrated and a little angry...
 
