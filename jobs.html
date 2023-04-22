@@ -17,7 +17,30 @@ layout: default
   </div>
 </div>
 
-<div class="container pb-6">
+{%- if site.jobss.size > 0 -%}
+<ul class="container jobss jobs-list">
+	{%- for jobs in site.jobss -%}
+	<li>
+		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		<div class="jobs-meta">
+			<a class="jobs-link" href="{{ jobs.url | relative_url }}">
+				<h2 class="jobs-title">{{ jobs.title | escape }}</h2>
+			</a>
+			<div class="jobs-date"><i class="icon-calendar"></i>{{ jobs.date | date: date_format }}</div>
+		</div>
+		<div class="jobs">
+			{%- if site.show_excerpts -%}
+			{{ jobs.excerpt }}
+			{%- endif -%}
+		</div>
+	</li>
+	{%- endfor -%}
+</ul>
+{%- endif -%}
+
+
+
+<!--<div class="container pb-6">
   <div class="row">
     {% for jobs in site.jobs %}
     <div class="col-12 col-md-6 mb-1">
@@ -43,5 +66,5 @@ layout: default
     </div>
     {% endfor %}
   </div>
-</div>
+</div>-->
 
