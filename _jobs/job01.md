@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: jobs
 title: 'IT Operations Engineer / Technician Hybrid Workplace - Microsoft 365'
 image: '/images/jobs/job.jpg'
 date: 2023-04-12 14:00:00
