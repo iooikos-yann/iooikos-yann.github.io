@@ -1,5 +1,5 @@
 ---
-title: 'Job01'
+title: 'Job02'
 image: '/images/jobs/job.jpg'
 ---
 text
