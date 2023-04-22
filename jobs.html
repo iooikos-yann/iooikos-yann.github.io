@@ -1,20 +1,20 @@
 ---
 layout: default
 ---
-{%- if site.posts.size > 0 -%}
-<ul class="container posts post-list">
-	{%- for post in site.posts -%}
+{%- if site.jobs.size > 0 -%}
+<ul class="container jobs job-list">
+	{%- for job in site.jobs -%}
 	<li>
 		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<div class="post-meta">
-			<a class="post-link" href="{{ post.url | relative_url }}">
-				<h2 class="post-title">{{ post.title | escape }}</h2>
+		<div class="job-meta">
+			<a class="job-link" href="{{ job.url | relative_url }}">
+				<h2 class="job-title">{{ job.title | escape }}</h2>
 			</a>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
+			<div class="job-date"><i class="icon-calendar"></i>{{ job.date | date: date_format }}</div>
 		</div>
-		<div class="post">
+		<div class="job">
 			{%- if site.show_excerpts -%}
-			{{ post.excerpt }}
+			{{ job.excerpt }}
 			{%- endif -%}
 		</div>
 	</li>
