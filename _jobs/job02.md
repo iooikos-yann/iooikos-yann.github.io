@@ -5,6 +5,7 @@ image: '/images/jobs/job.jpg'
 date: 2023-04-24 21:30:00
 categories: open jobs
 ---
+
 Join our rapidly growing consulting firm and contribute to our international success as an IT Junior Project Manager, you will have various responsibilities that contribute to the success of our Customers' IT projects.
 
 **Your missions**
