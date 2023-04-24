@@ -1,8 +1,8 @@
 ---
 layout: jobs
-title: 'IT Operations Engineer / Technician Hybrid Workplace - Microsoft 365'
+title: 'second IT Operations Engineer'
 image: '/images/jobs/job.jpg'
-date: 2023-04-12 14:00:00
+date: 2023-04-13 14:00:00
 categories: open jobs
 ---
 

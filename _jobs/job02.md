@@ -2,7 +2,7 @@
 layout: jobs
 title: 'IT Junior Project Manager'
 image: '/images/jobs/job.jpg'
-date: 2023-04-24 21:30:00
+date: 2023-04-12 14:00:00
 categories: open jobs
 ---
 
