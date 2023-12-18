@@ -2,7 +2,7 @@
 layout: jobs
 title: 'Customer Service and Portal Assistant'
 image: '/images/jobs/job.jpg'
-date: 2023-12-18 20:30:00
+date: 2023-12-11 20:30:00
 categories: open jobs
 ---
 
