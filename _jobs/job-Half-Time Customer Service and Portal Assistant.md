@@ -1,6 +1,6 @@
 ---
 layout: jobs
-title: 'Half-Time Short Term Customer Service and Portal Assistant'
+title: 'Customer Service and Portal Assistant'
 image: '/images/jobs/job.jpg'
 date: 2023-12-18 20:30:00
 categories: open jobs
@@ -31,7 +31,7 @@ As a Customer Service and Portal Assistant, you will be responsible for:
 
 **What we offer:**
 
-* 🌐 Half time job with flexible hours to accomodate with your life.
+* 🌐 **Part-time 6 months job** with to accomodate with your life.
 * 🌐 A lunch card, travel fee reimbursement.
 * 🌐 A dynamic, inclusive, smart and supportive work environment.
 * 🌐 Opportunities for professional growth and development tailored to your career aspirations in the Tech industry.
